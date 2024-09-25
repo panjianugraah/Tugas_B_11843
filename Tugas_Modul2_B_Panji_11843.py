@@ -3,7 +3,7 @@ import pickle
 import os
 
 
-model_path= 'GBT_heartDisease_model.pkl'
+model= 'GBT_heartDisease_model.pkl'
 
 
 with open(model,'rb') as f:
